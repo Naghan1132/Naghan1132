@@ -1,9 +1,7 @@
 ### Hello World 👋
 
-**Naghan1132/Naghan1132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working Data Science
-- 📫 How to reach me: https://www.linkedin.com/in/nathan-grimault-1a7356113/
+- 📫 How to reach me: [![Linkedin] https://www.linkedin.com/in/nathan-grimault-1a7356113/
   
 ![](https://komarev.com/ghpvc/?username=Naghan1132)
 
