@@ -3,6 +3,7 @@
 - 🔭 I’m currently working Data Science
 - 📫 How to reach me: ![Linkedin](https://www.linkedin.com/in/nathan-grimault-1a7356113/)
   
+  
 ![](https://komarev.com/ghpvc/?username=Naghan1132)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naghan1132)](https://github.com/anuraghazra/github-readme-stats)
