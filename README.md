@@ -7,6 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=Naghan1132)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naghan1132)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naghan1132)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Naghan1132/Naghan1132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
