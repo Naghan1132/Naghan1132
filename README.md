@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working Data Science
+- 🔭 I’m currently working on Data Science projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nathan-grimault-1a7356113/)
   
   
