@@ -1,5 +1,4 @@
-Hi ![](https://gifyu.com/image/SUKQU)My name is Nathan Grimault
-=======================================================================================================================================
+Hi ![](https://github.com/Naghan1132/Naghan1132/assets/66120091/10400082-c4b2-4d3e-b429-8fd0a8da8397)My name is Nathan Grimault
 
 Data Science Enjoyer
 --------------------
