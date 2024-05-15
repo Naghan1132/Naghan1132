@@ -1,8 +1,5 @@
 ![header](https://github.com/Naghan1132/Naghan1132/blob/main/github-header-image.png)
 
-Hi, I'm Nathan Grimault
-
-Data Science Enjoyer
 --------------------
 
 🔭 I’m currently working on Data Science projects
