@@ -1,5 +1,3 @@
-![](https://github.com/Naghan1132/Naghan1132/assets/66120091/10400082-c4b2-4d3e-b429-8fd0a8da8397)
-
 ![header](https://github.com/Naghan1132/Naghan1132/blob/main/github-header-image.png)
 
 Hi, I'm Nathan Grimault
@@ -28,3 +26,6 @@ Data Science Enjoyer
 <a href="http://www.github.com/Naghan1132"><img src="https://github-readme-stats.vercel.app/api?username=Naghan1132&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Naghan1132's GitHub stats" /></a>
 
 <a href="https://github.com/Naghan1132" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naghan1132&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![](https://github.com/Naghan1132/Naghan1132/assets/66120091/10400082-c4b2-4d3e-b429-8fd0a8da8397)
+
